@@ -1,4 +1,4 @@
-## Github-Profile-Viewer
+## GitScope
 
 profile viewer website 
 
